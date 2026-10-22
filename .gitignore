@@ -1,0 +1,6 @@
+# Bu dosya yokmuş gibi davranın
+*.pyc
+__pycache__/
+.DS_Store
+
+# Gizli siyasi şeyler burada yok
